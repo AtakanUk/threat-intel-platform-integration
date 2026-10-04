@@ -1,0 +1,5 @@
+requests>=2.28
+ldap3>=2.9
+python-dotenv>=1.0
+# only when SOAR_ENABLED=true
+resilient>=40.0
